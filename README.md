@@ -26,7 +26,7 @@ In this immersive adventure:
 ## Getting Started
 To start your adventure:
 1. Clone the repository.
-2. Run the game executable.
+2. Run the main.py file.
 3. Follow the on-screen instructions to embark on your journey!
 
 Are you ready to embark on this thrilling adventure? Get ready to conquer the island and emerge victorious in Captain Crunch's Adventure!
